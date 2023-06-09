@@ -1,18 +1,17 @@
 
-	R : $
-	A : &
-	S : #
-	M : @
+	Sufyan : &
+	Rania : $
+	Anood : @
+	Unknown : #
 
 
-R : $ : 0
+Sufyan : & : 11
 
-A : & : 10
+Rania : $ : 0
 
-S : # : 0
+Anood : @ : 0
 
-M : @ : 12
-
- HIGHEST SCORE : 12 by M
+Unknown : # : 11
+PLAYERS 1 & 4 HAVE SAME SCORE : 11
  EXITING! YOUR GAME DATA WILL BE LOSS
 
