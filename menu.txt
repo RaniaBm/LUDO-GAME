@@ -1,0 +1,35 @@
+
+
+	1. PLAY GAME
+	2. HOW TO PLAY
+	3. HIGH SCORES
+	4. EXIT
+	On each player's turn, the player rolls the die to determine a move.
+The goal of the game is to move all four of the player's pieces clockwise once 
+around the board,up the home column, and into the home triangle.
+To begin, a player must roll a six to move a piece out of the baseand 
+onto the start position.
+
+	1. PLAY GAME
+	2. HOW TO PLAY
+	3. HIGH SCORES
+	4. EXIT
+	HIGH SCORES : PROCESSING...
+
+	1. PLAY GAME
+	2. HOW TO PLAY
+	3. HIGH SCORES
+	4. EXIT
+
+	1. PLAY GAME
+	2. HOW TO PLAY
+	3. HIGH SCORES
+	4. EXIT
+	HIGH SCORES : PROCESSING...
+
+	1. PLAY GAME
+	2. HOW TO PLAY
+	3. HIGH SCORES
+	4. EXIT
+
+TERMINATE THE GAME

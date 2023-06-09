@@ -1,0 +1,11 @@
+
+	r : $ : 0
+	s : # : 0
+
+
+r : $ : 0
+
+s : # : 0
+ BOTH PLAYERS HAVE SAME SCORE : 0
+EXITING! YOUR GAME DATA WILL BE LOSS
+

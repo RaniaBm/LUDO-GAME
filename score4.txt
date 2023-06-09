@@ -1,0 +1,18 @@
+
+	R : $
+	A : &
+	S : #
+	M : @
+
+
+R : $ : 0
+
+A : & : 10
+
+S : # : 0
+
+M : @ : 12
+
+ HIGHEST SCORE : 12 by M
+ EXITING! YOUR GAME DATA WILL BE LOSS
+
