@@ -57,3 +57,6 @@ To play the game, simply run the executable file and follow the on-screen instru
 
 ![image](https://github.com/RaniaBm/LUDO-GAME/assets/128255568/a029d2a1-0be1-48e0-86eb-a3375b954292)
 
+
+## Feedback
+you can submit your feed back at raniabm21@gmail.com
